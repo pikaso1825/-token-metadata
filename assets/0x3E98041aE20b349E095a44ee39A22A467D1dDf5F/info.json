@@ -1,0 +1,7 @@
+{
+  "name": "Tether",
+  "symbol": "USDT",
+  "decimals": 18,
+  "description": "A BEP-20 token deployed on Binance Smart Chain with owner-only mint/burn and wallet interoperability.",
+  "logo": "logo.png"
+}
